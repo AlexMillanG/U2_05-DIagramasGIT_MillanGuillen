@@ -3,3 +3,9 @@ primera nota archivo
 segundo commit desde main
 
 primer commit user 3
+primer commit user 2
+segundo commit user 2
+tercer commit user 2
+cuarto commit user 2
+commit 1 user 1
+commit 2 user 1
